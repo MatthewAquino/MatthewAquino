@@ -1,6 +1,6 @@
 ```python                                           
                                                     
-Matthew@Aquino:
+
 ------                    
   OS: "CentOS Linux 7"
   Uptime: "23 Years"
