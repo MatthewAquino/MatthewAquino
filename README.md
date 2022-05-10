@@ -7,9 +7,9 @@
                ^JPGGPPJ?7JP#&&#B#&5??!.             Location: "Toronto, ON"
          .. .~5&@@@@&&##&##J~P&GY5BY^.^:            
          : ~PG#B#&&BBG&##B&? ~PY^^7!  ..            Languages.Programming: ["Python", "Powershell"] 
-       . .7G##B#GGBB###PBB##5?7~::.^...             Languages.Computer: "["JSON", "Markdown", "HCL", "YAML"]
+       . .7G##B#GGBB###PBB##5?7~::.^...             Languages.Computer: "["JSON", "Markdown", "HCL"]
        .:.J#BGP5G#BB##GY?P&#&GY?J?^^. .           
-         .7Y?7!:YGG#@&BPPY5B&&BGPJ!.                Certifications: ["AWS CCP","Network+","AZ-900", "TCA", "TCO"]
+         .7Y?7!:YGG#@&BPPY5B&&BGPJ!.                Certifications: ["AWS CCP","Network+","AZ-900"]
           !?J~J!^7~?P#&PPPYY#B#&B57?~ .             
     ..    ^~JJ?~^^..!!PYY?Y5YB&#&#7:!^            
    ^~^^^  .^~~::: ..:^!Y57YBB######7     ..         Contact:
