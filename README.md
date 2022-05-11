@@ -10,7 +10,7 @@
          
 Contact:
 ------
-  Email : "matthew@aquino.lol"
-  LinkedIn : "https://www.linkedin.com/in/matthew-aquino-/"
+  Email: "matthew@aquino.lol"
+  LinkedIn: "https://www.linkedin.com/in/matthew-aquino-/"
   Discord: "Aura#6532"
 
