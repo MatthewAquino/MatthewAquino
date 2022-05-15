@@ -1,6 +1,6 @@
 ```python                                           
 ------                    
-  OS: "CentOS Linux 7"
+  Hostname: "Matthew Aquino"
   Uptime: "23 Years"
   Location: "Toronto, ON"
          
